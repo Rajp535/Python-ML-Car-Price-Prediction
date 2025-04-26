@@ -38,7 +38,7 @@ To predict the price of a car based on its various specifications using regressi
 - Regularization techniques like Ridge Regression helped improve model generalization.
 
 ## 📁 Files
-- `Car_Price_Prediction.ipynb` – Full notebook including data preprocessing, EDA, modeling, and evaluation
+- `Car Price Analysis & Model Building.ipynb` – Full notebook including data preprocessing, EDA, modeling, and evaluation
 - `autos_dataset.xlsx` – Cleaned dataset used for model training and testing
 
 ## ✅ Outcome
