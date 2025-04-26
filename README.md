@@ -46,3 +46,7 @@ Successfully developed a robust regression model capable of predicting car price
 
 ---
 
+# 🚀 Project Badges
+![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-brightgreen.svg)
+![Regression](https://img.shields.io/badge/Regression-Model-orange.svg)
